@@ -3,7 +3,7 @@ import discord
 from dotenv import load_dotenv
 
 load_dotenv()
-TOKEN = 'NzM1ODgyNzEyMzcxNjkxNjQx.XxnaOA.W8Tq8DY4pGsqGvdQLX72ij_ullc'
+TOKEN = 'INSERT TOKEN HERE'
 GUILD = os.getenv('White Van')
 
 intents = discord.Intents.default()
