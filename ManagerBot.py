@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 TOKEN = 'INSERT TOKEN HERE'
-GUILD = os.getenv('White Van')
+GUILD = os.getenv('INSERT SERVER NAME HERE')
 
 intents = discord.Intents.default()
 intents.members = True
